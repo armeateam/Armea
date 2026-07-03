@@ -1,5 +1,5 @@
 # Armea — Public Hub & Issue Tracker.
-
+as
 This repository serves as the central clearinghouse for the Armea ecosystem's open-source modules, global localization efforts, and official bug tracking.
 
 ## Product Summary
